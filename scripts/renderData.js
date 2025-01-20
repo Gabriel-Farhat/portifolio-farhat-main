@@ -43,7 +43,7 @@ const getProjectsByTypeOrAll = (typeId) => {
                     Este projeto não apenas me permitiu aplicar meus conhecimentos técnicos, mas também aprimorar minhas habilidades em design de interface e usabilidade.<br /><br />
 `,
       imgSrc: './img/Dashboard.png',
-      videoSrc: 'https://streamable.com/e/03hnue',
+      videoSrc: './img/Dashboard.png',
       linkedin: 'https://www.linkedin.com/posts/gabrielfarhat_apresentando-meu-projeto-dashboard-de-activity-7252824639972761600-FeNL?utm_source=share&utm_medium=member_desktop',
       repository: 'https://github.com/Gabriel-Farhat/Dashboard-Analise-Mercado-Criptomoedas',
       site: 'https://analytical-cripto-dash.vercel.app'
