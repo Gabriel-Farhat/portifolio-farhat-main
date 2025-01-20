@@ -66,8 +66,8 @@ Os principais benefícios alcançados incluem:<br/>
              •  Otimização do tempo de processamento no setor de recebimento<br/><br/>
 
 Este projeto não apenas modernizou o processo existente, mas trouxe ganhos mensuráveis de produtividade para a operação. Estou entusiasmado para discutir os resultados obtidos e explorar novas possibilidades de aprimoramento! 💡<br/><br/>`,
-      imgSrc: '/img/imppalete.png',
-      videoSrc: '/img/impapresenta.png',
+      imgSrc: './img/imppalete.png',
+      videoSrc: './img/impapresenta.png',
       linkedin: 'https://www.linkedin.com/posts/gabrielfarhat_inovaaexaeto-python-desenvolvimentodesoftware-activity-7163550841822547971-rniR?utm_source=share&utm_medium=member_desktop',
       repository: '#',
       site: '#'
@@ -89,8 +89,8 @@ Este projeto não apenas modernizou o processo existente, mas trouxe ganhos mens
                     Com uma interface intuitiva e centralizada, a Central do Colaborador se tornou um ponto de apoio estratégico, proporcionando maior organização e contribuindo 
                     diretamente para o aumento da eficiência e da colaboração dentro da empresa.
         `,
-      imgSrc: '/img/centraldocolaborador.png',
-      videoSrc: '/img/centralfoto.png',
+      imgSrc: './img/centraldocolaborador.png',
+      videoSrc: './img/centralfoto.png',
       linkedin: '#',
       repository: '#',
       site: '#'
@@ -114,8 +114,8 @@ Este projeto não apenas modernizou o processo existente, mas trouxe ganhos mens
                     HTML<br />      
                     CSS<br />
                     JavaScript<br /><br />`,
-      imgSrc: '/img/dtcpprincipal.png',
-      videoSrc: '/img/dtcpprincipal.png',
+      imgSrc: './img/dtcpprincipal.png',
+      videoSrc: './img/dtcpprincipal.png',
       linkedin: '',
       repository: '',
       site: ''
