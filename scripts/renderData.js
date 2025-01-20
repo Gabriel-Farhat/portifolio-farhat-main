@@ -115,10 +115,10 @@ Este projeto não apenas modernizou o processo existente, mas trouxe ganhos mens
                     CSS<br />
                     JavaScript<br /><br />`,
       imgSrc: '/img/dtcpprincipal.png',
-      videoSrc: 'https://streamable.com/e/65khi6',
-      linkedin: 'https://www.linkedin.com/posts/gabrielfarhat_distribuidoracampos-inovaaexaeto-webdesign-activity-7176292229546733570-d6Oo?utm_source=share&utm_medium=member_desktop',
-      repository: 'https://github.com/rhuanbello/clone-windowsCalculator',
-      site: 'https://calculator-rhuanbello.vercel.app/'
+      videoSrc: '/img/dtcpprincipal.png',
+      linkedin: '',
+      repository: '',
+      site: ''
     },
     
   ];

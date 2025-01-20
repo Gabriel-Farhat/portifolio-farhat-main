@@ -1028,3 +1028,10 @@ body.light-mode .modal h2{
 body.light-mode .menuOpen h2{
     color:#F9F9F9 !important
 }
+
+
+#contacts {
+    display: block; 
+    width: 100%;
+    padding: 50px 0;
+}
